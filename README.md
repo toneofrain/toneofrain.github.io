@@ -1,3 +1,7 @@
+> ⚠️ Important
+>   
+> 해당 프로젝트는 더이상 유지보수되지 않습니다.
+
 # "Borderless" Theme, Built with Gatsby
 
 - **[Documents (Korean)](<https://github.com/junhobaik/junhobaik.github.io/wiki/Document-(Borderless)>)**  
